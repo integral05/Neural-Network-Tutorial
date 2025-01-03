@@ -35,7 +35,7 @@ Here’s a brief overview of the topics covered:
 ## Resources 📌  
 ------------  
 
-* [CampusX YouTube Channel]([https://www.youtube.com/channel/UC9x2yz7PGaAsR5mXZxXrBhQ](https://youtube.com/@campusx-official?feature=shared))  
+* [CampusX YouTube Channel]((https://youtube.com/@campusx-official?feature=shared))  
 * [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)  
 
 ---
